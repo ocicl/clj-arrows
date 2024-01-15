@@ -1,0 +1,10 @@
+* clj-arrows
+
+Clojure-compatible threading/transformation/arrow macros for Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/dtenny/clj-arrows.git |
+| commit  | f43b97d                                      |
+| systems | clj-arrows                                   |
+|---------+----------------------------------------------|
+
